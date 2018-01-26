@@ -78,7 +78,7 @@ theme: pure
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Tangyuan0609/blog
-  branch: public
+  repo: https://github.com/Tangyuan0609/Tangyuan0609.github.io
+  branch: master
   message:
 
