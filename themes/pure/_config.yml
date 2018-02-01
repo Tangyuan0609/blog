@@ -31,7 +31,7 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: 汤圆博客 # 页面title
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: false # 底部版权信息
@@ -172,13 +172,13 @@ profile:
   author_title: Web Developer & Designer
   author_description: 个人简介。
   location: Hefei, China
-  follow: https://github.com/cofess
+  follow: https://github.com/Tangyuan0609
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
+      github: https://github.com/Tangyuan0609
       weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      # twitter: /
       # facebook: /
       # dribbble: /
       behance: https://www.behance.net/cofess
@@ -188,15 +188,15 @@ profile:
   skills:
     Git: ★★★☆☆
     Gulp: ★★★☆☆
+    Html5+Css3: ★★★☆☆
     Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    HTML+CSS: ★★★★★
+    Bootstrap: ★★★★☆
+    Vue: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
+    Github: https://github.com/Tangyuan0609
+    # Blog: http://blog.cofess.com
     微博: http://weibo.com/cofess
     花瓣: http://huaban.com/cofess
     Behance: https://www.behance.net/cofess
@@ -204,15 +204,15 @@ profile:
   labels:
     - 前端
     - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - Html5+Css3
+    - Javascript
+    - Vue
   # My Personal Works
   works:
-    name:
-      link: http://www.example.com
+    公司官网:
+      link: http://www.gtafe.com/
       date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    website: https://github.com/Tangyuan0609/website
+    Tangyuan0609/Tangyuan0609.github.io: https://github.com/Tangyuan0609/Tangyuan0609.github.io
