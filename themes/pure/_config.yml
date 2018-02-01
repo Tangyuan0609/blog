@@ -84,11 +84,11 @@ donate:
   enable: true
   weipay:
     image: images/donate/weipay.jpg
-    qrcode: images/donate/weipayimg.png
+    qrcode: images/donate/weipayimg.jpg
     title: 微信支付
   alipay: 
     image: images/donate/alipay.jpg
-    qrcode: images/donate/alipayimg.png 
+    qrcode: images/donate/alipayimg.jpg 
     title: 支付宝
 
 # Share
@@ -100,7 +100,7 @@ share:
 
 # Github
 github: 
-  username: cofess  # github username
+  username: Tangyuan0609  # github username
 
 # Comment
 # Gitment
@@ -177,7 +177,7 @@ profile:
   social:
     links:
       github: https://github.com/Tangyuan0609
-      weibo: http://weibo.com/cofess
+      weibo: aaa
       # twitter: /
       # facebook: /
       # dribbble: /
@@ -197,9 +197,9 @@ profile:
   links:
     Github: https://github.com/Tangyuan0609
     # Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    微博: 暂填
+    # 花瓣: http://huaban.com/cofess
+    # Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
     - 前端
