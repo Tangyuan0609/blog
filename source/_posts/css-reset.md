@@ -1,7 +1,7 @@
 ---
-title: Css-reset样式
+title: css-reset样式
 tags: [css]
-categories: [前端,html]
+categories: [css]
 ---
 
 ## 情况一
